@@ -1,13 +1,21 @@
-### Hi, my name is Norbert.
+# Hi, my name is Norbert.
 
-<br />
-
-## I'm passionate developer and engineer.
+## I'm  developer and engineer.
 - Currently working in autonomous drones company.
 - Have strong computer vision experience.
 
-<br />
-<br />
+## Technologies
+- Python
+- Flask
+- OpenCV
+- C++
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### Contact me
 <a href="https://www.linkedin.com/in/norbert-ozga/">
