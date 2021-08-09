@@ -4,10 +4,12 @@
 - Currently working in autonomous drones company.
 - Have strong computer vision experience.
 
-## Technologies
+## Technologies and frameworks
 - Python
 - Flask
-- OpenCV
+- FastAPI
+- PyTorch
+- Julia
 - C++
 
 **Languages and Tools:**  
@@ -23,7 +25,4 @@
 </a>
 <a href="https://github.com/norbertozga">
   <img align="left" alt="Norbert's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/norbert_ozga/">
-  <img align="left" alt="Norbert's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
