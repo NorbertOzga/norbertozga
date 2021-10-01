@@ -9,7 +9,6 @@
 - Flask
 - FastAPI
 - PyTorch
-- Julia
 - C++
 
 **Languages and Tools:**  
